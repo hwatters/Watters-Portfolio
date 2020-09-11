@@ -11,3 +11,7 @@ I hope to better my data visualization skills to help me excel in my professiona
 
 # Portfolio
 This is where my data visualization projects with be stored. 
+
+
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/3707690" data-url="https://flo.uri.sh/visualisation/3707690/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
