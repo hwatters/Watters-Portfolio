@@ -24,3 +24,7 @@ Week 2 Assignment (/DatavizWeek2.md)
 # Debt to GDP Throughout the World - Column Chart
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3729189" data-url="https://flo.uri.sh/visualisation/3729189/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+## Line vs. Column Chart
+I thought the best way to present the data in a different form was through a Column chart. Column charts present the data vertically, so it is eary to read with both the x-axiz and y-axis. By using the column chart, the range of the data is easier to intrepret, aka finding the peaks and troughs. Since I'm presenting the same data, but just for mulitple countries I decided to use one singular color to not distract. I thought about color coding by continent, but I decided adding another legend could distract the reader. In the column chart rendition, I decided to organize the countries alphabetically. 
