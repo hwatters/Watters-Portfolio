@@ -12,5 +12,5 @@ I hope to better my data visualization skills to help me excel in my professiona
 # Portfolio
 This is where my data visualization projects with be stored. 
 
-Week 2 Assignment(
+Week 2 Assignment(/DatavizWeek2)
 
