@@ -5,6 +5,6 @@
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3729609" data-url="https://flo.uri.sh/visualisation/3729609/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Debt to GDP Throughout the World - Column Chart
+# Debt to GDP Throughout the World - Scatter Plot
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/3729189" data-url="https://flo.uri.sh/visualisation/3729189/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-scatter" data-src="visualisation/3748510" data-url="https://flo.uri.sh/visualisation/3748510/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
