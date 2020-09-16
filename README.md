@@ -21,10 +21,9 @@ Week 2 Assignment (/DatavizWeek2.md)
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3729609" data-url="https://flo.uri.sh/visualisation/3729609/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Debt to GDP Throughout the World - Column Chart
+# Debt to GDP Throughout the World - Scatter Plot
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/3729189" data-url="https://flo.uri.sh/visualisation/3729189/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-scatter" data-src="visualisation/3748510" data-url="https://flo.uri.sh/visualisation/3748510/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
-## Line vs. Column Chart
-I thought the best way to present the data in a different form was through a Column chart. Column charts present the data vertically, so it is eary to read with both the x-axiz and y-axis. By using the column chart, the range of the data is easier to intrepret, aka finding the peaks and troughs. Since I'm presenting the same data, but just for mulitple countries I decided to use one singular color to not distract. I thought about color coding by continent, but I decided adding another legend could distract the reader. In the column chart rendition, I decided to organize the countries alphabetically. 
+## Line vs. Scatter Chart
+I thought the best way to present the data in a different form was through a scatter plot. The first change I made was rearranging the countries alphabetically to give some order to the data. By using a scatter plot, all the data is able to be presented in one chart rather than many (line), so it makes it easier for the reader to compare across countries. I also changed the y-axis to the years instead of the debt to GDP ratio. By having time as my y-axis, I was able to use a red-yellow-green coloring. This type of coloring is familar to audiences, knowing that red is "bad", yellow "better", and green "good". For example, by looking at the scatter plot the reader can easily identify that Japan's debt to GDP ratio has been consistently better, growing in the right direction. Whereas Beligum started out higher, then their ratio dipped (red/orange), and is now slowing moving towards the green color. I also made sure to include a legend at the bottom of the chart so the color scale can be verfified. I also think that this data works well in an interactive scatter plot. By highlighting over the data points, which may be difficult to read at times, readers as able to see the specific readings.
