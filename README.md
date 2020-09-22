@@ -12,20 +12,20 @@ I hope to better my data visualization skills to help me excel in my professiona
 # Portfolio
 This is where my data visualization projects with be stored. 
 
-Week 2 Assignment (/DatavizWeek2.md)
+# Week 2 Assignment (/DatavizWeek2.md)
 
-# General Government Debt from OCED
+## General Government Debt from OCED
 <iframe src="https://data.oecd.org/chart/65u1" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/65u1" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
-# Debt to GDP Througout the World - Line Chart
+## Debt to GDP Througout the World - Line Chart
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3729609" data-url="https://flo.uri.sh/visualisation/3729609/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Debt to GDP Throughout the World - Scatter Plot
+## Debt to GDP Throughout the World - Scatter Plot
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/3748510" data-url="https://flo.uri.sh/visualisation/3748510/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Line Chart vs. Scatter Plot
+### Line Chart vs. Scatter Plot
 I thought the best way to present the data in a different form was through a scatter plot. The first change I made was rearranging the countries alphabetically to give some order to the data. By using a scatter plot, all the data is able to be presented in one chart rather than many (line), so it makes it easier for the reader to compare across countries. I also changed the y-axis to the years instead of the debt to GDP ratio. By having time as my y-axis, I was able to use a red-yellow-green coloring. This type of coloring is familar to audiences, knowing that red is "bad", yellow "better", and green "good". For example, by looking at the scatter plot the reader can easily identify that Japan's debt to GDP ratio has been getting consistently better, growing in the right (green) direction. Whereas Beligum started out higher (light green), then their ratio dipped (red/orange), and is now slowing improving (yellow). I also made sure to include a legend at the bottom of the chart so the color scale can be verfified. I  think that this data works well in an interactive scatter plot. By highlighting over the data points, which may be difficult to read at times, readers as able to see the specific readings.
 
 
@@ -45,3 +45,7 @@ The second method I tried was a world heat map. While challenging to draw by fre
 #### Feedback
 My feedback from others reinforced what I was already thinking. They were not fans of the heat map at all (and not just due to my poorly drawn map). One crtique about the tree map is they thought it was missing that +/- the original table portrayed. They suggested adding that back in someway.
 
+### Final Results
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/3801511" data-url="https://flo.uri.sh/visualisation/3801511/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/3801571" data-url="https://flo.uri.sh/visualisation/3801571/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/3801609" data-url="https://flo.uri.sh/visualisation/3801609/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
