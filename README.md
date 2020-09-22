@@ -32,6 +32,7 @@ I thought the best way to present the data in a different form was through a sca
 
 # Assignment 3 & 4: Critique by Design
 ![](Data Ireland.PNG)
+
 This chart belongs to a large PDF of charts and graphs from Tourism Ireland. The other graphs in the PDF display other facts and figures about Irish tourism. I selected this table because I thought there would be a better way to display the data. This orignal chart supplies the audience with the straight facts: where tourists are coming from and if country visitation increased from the previous year. 
 There were some obvious things I liked about the table, such as listing the +/- symbols if visitation increased or decreased. Without having to even read the number, the reader can see the trend. Something I didn't like was how the countries were listed. I don't think it makes sense to list the EU, and then label four countries within the EU. Also, it lists North America, but only lists two countries within North America. 
 The first fix I did was narrow down the categories to simply Great Britian,, EU, USA, Canada, and other. Due to this simplified groups, I skteched out a tree map. Even by quickly sketching I could easily see where tourists were traveling from the most. I also made indidividual tree maps for the Republic and Northern Ireland to see about specific travel regionally. I thought it was still important to parse out these two groups because there are part of two different coutries. 
