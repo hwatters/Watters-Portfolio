@@ -35,11 +35,13 @@ I thought the best way to present the data in a different form was through a sca
 
 This chart belongs to a large PDF of charts and graphs from Tourism Ireland. The other graphs in the PDF display other facts and figures about Irish tourism. I selected this table because I thought there would be a better way to display the data. This orignal chart supplies the audience with the straight facts: where tourists are coming from and if country visitation increased from the previous year. 
 There were some obvious things I liked about the table, such as listing the +/- symbols if visitation increased or decreased. Without having to even read the number, the reader can see the trend. Something I didn't like was how the countries were listed. I don't think it makes sense to list the EU, and then label four countries within the EU. Also, it lists North America, but only lists two countries within North America. 
-### Find a Solution
+#### Finding a Solution
 The first fix I did was narrow down the categories to simply Great Britian,, EU, USA, Canada, and other. Due to this simplified groups, I skteched out a tree map. Even by quickly sketching I could easily see where tourists were traveling from the most. I also made indidividual tree maps for the Republic and Northern Ireland to see about specific travel regionally. I thought it was still important to parse out these two groups because there are part of two different coutries. 
+
 ![](assign 3 tree map.jpg)
 The second method I tried was a world heat map. While challenging to draw by free hand, I could tell right away it wasn't going to be a good fit. Since the makority of Ireland's visitors are from just a few specific regions, the map left a lot of dead space and Great Britian was really overcrowding Ireland. I also didn't like this method because of the "other categories." I wasn't sure where to place their representation.
+
 ![](assign 3 heat map.jpg)
-### Feedback
+#### Feedback
 My feedback from others reinforced what I was already thinking. They were not fans of the heat map at all (and not just due to my poorly drawn map). One crtique about the tree map is they thought it was missing that +/- the original table portrayed. They suggested adding that back in someway.
 
