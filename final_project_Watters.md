@@ -5,10 +5,10 @@ Before my current job, I worked for a museum for four years. During this time I 
 
 ## Initial Sketches
 
-[](/outline.jpg)
+![](outline.jpg)
 
 
-[](/final project sketches.jpg)
+![](final project sketches.jpg)
 
 ## The Data
 I plan on using information and data provided by the American Association of Museums (AAM). In 2010 they published a report with findings about past and present visitor demographics, as well as what they predicted for the future.
