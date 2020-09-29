@@ -22,3 +22,6 @@ I used Flourish Studio to create my new graphs. Due to the multiple categories (
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/3801511" data-url="https://flo.uri.sh/visualisation/3801511/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/3801571" data-url="https://flo.uri.sh/visualisation/3801571/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/3801609" data-url="https://flo.uri.sh/visualisation/3801609/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+[Back to Homepage](/README.md)
