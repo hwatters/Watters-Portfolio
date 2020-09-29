@@ -18,11 +18,11 @@ Another source I plan to use is the Andrew W. Mellon Foundation. They recently d
 [Check out the Mellon's Foundation survey](https://mellon.org/news-blog/articles/latest-art-museum-staff-demographic-survey-shows-increases-african-american-curators-and-women-leadership-roles/#:~:text=ART%20MUSEUM%20STAFF%20DEMOGRAPHIC%20SURVEY%202018&text=Overall%2C%20the%20findings%20indicate%20that,and%20ethnically%20diverse%20since%202015.&text=Approximately%20430%20people%20of%20color,held%20by%20people%20of%20color.)
 
 ## The Plan
-I plan on using Shorthand to create my final project. Based on the demostration that Trista did in class, I think it will present my information well. I do not have any experience in Shorthand. Though it will be challenging, I think it will help me tell my story and call to action.I will hopefully use Tableau and Flourish to recreate my data visualizations. I will also most likely use images to go with my text and visualizations. 
+I plan on using Shorthand to create my final project. Based on the demostration that Trista did in class, I think it will present my information well. I do not have any experience in Shorthand. Though it will be challenging, I think it will help me tell my story and call to action. I will use Tableau and Flourish to recreate my data visualizations. I will also most likely use images to go with my text and visualizations. 
 
 At this point in the project, I need to narrow down my ideas a bit more. I worry that I may be easily over complicating the story I want to tell. Also, due to the large scale of the museum demographics, there are few studies that have been done in the past 10 years. I worry that my data may be "out of date." I hope to combat that potential issue with current population data and relatable stories.
 
-As I type out my outline, my idea is already shifting to something a bit different than described above. To present a more persusive, complete story I may focus my project on diversity in musuems. 
+As I type out my outline, my idea is already shifting to something a bit different than described above. To present a more persusive, complete story I may focus my project on diversity in art musuems, in all aspects - visitation, leadership, and artists in collections.
 
 
 [Back to Homepage](/README.md)
