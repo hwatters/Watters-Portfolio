@@ -13,3 +13,8 @@ https://www.aam-us.org/wp-content/uploads/2017/12/Demographic-Change-and-the-Fut
 
 ## The Plan
 I plan on using Shorthand to create my final project. Based on the demostration that Trista did in class, I think it will present my information well. I will hopefully use Tableau and Flourish to recreate my data visualizations. I will also most likely use images to go with my text and visualizations. I do not have any experience in Shorthand. Though it will be challenging, I think it will help me tell my story and call to action.
+
+
+
+
+[Back to Homepage](/README.md)
