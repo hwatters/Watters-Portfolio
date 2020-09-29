@@ -56,4 +56,4 @@ I used Flourish Studio to create my new graphs. Due to the multiple categories (
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/3801609" data-url="https://flo.uri.sh/visualisation/3801609/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Final Project
- [Final part 1](/final_project_Watters.md)
+ [Final Project Part 1](/final_project_Watters.md)
