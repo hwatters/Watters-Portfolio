@@ -17,6 +17,7 @@ This is where my data visualization projects with be stored.
 
 
 # Assignment 3 & 4: Critique by Design
+[Week 3 Assignment Page](/WeekThree.md)
 #### Finding a visualization
 ![](Data Ireland.PNG)
 
