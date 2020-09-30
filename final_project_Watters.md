@@ -27,7 +27,7 @@ I plan on using Shorthand to create my final project. Based on the demostration 
 
 At this point in the project, I need to narrow down my ideas a bit more. I worry that I may be easily over complicating the story I want to tell. Also, due to the large scale of the museum demographics, there are few studies that have been done in the past 10 years. I worry that my data may be "out of date." I hope to combat that potential issue with current population data and relatable stories.
 
-As I type out my outline, my idea is already shifting to something a bit different than described above. To present a more persusive, complete story I may focus my project on diversity in art musuems, in all aspects - visitation, leadership, and artists in collections. I really want to show the readers that there is room and need for improvement for diversity in museums. By reaching out to local communities, to recruiting diverse hires, and adding diverse artists to their collections, museum can being to change their narrative of being excludive places. 
+As I type out my outline, my idea is already shifting to something a bit different than described above. To present a more persusive, complete story I may focus my project on diversity in art musuems, in all aspects - visitation, leadership, and artists in collections. I really want to show the readers that there is room and need for improvement for diversity in museums. By reaching out to local communities, to recruiting diverse hires, and adding diverse artists to their collections, museums can change their narrative of being exclusive places. 
 
 
 [Back to Homepage](/README.md)
