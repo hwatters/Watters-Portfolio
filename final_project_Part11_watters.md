@@ -17,4 +17,4 @@ Below, you'll find drafts of some of my potential graphics for the final project
 #### Target Audience
 I hope to reach museum enthusiasts so show them the behind-the-scenes of how the museum is made. I also hope to reach people who live in communities with an accessible museum but do not visit. 
 ####  Identifying Individuals to Interview
-I interviewed three people: two who live in Pittsburgh (within 5 miles of an art museum) and someone who lives in North Carolina (museum enthusiast, not located in Pittsburgh). My group of interviewees were two white women (25+) and a white male (25+). Here is what I asked and their responses: 
+
