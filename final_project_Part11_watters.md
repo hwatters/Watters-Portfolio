@@ -24,4 +24,4 @@ Below, you'll find drafts of some of my potential graphics for the final project
 #### Target Audience
 I hope to reach museum enthusiasts so show them the behind-the-scenes of how the museum is made. I also hope to reach people who live in communities with an accessible museum but do not visit. 
 ####  Identifying Individuals to Interview
-
+(Here is my user research results)[Final Project User research.docx]
