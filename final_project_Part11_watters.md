@@ -21,10 +21,9 @@ Below, you'll find drafts of some of my potential graphics for the final project
 
 
 ### Feedback
-#### Target Audience
-I hope to reach museum enthusiasts so show them the what museums are actually comprised of, both in collections and staff. I also hope to reach people who live in communities with a museum nearby but they do not visit. 
-####  Identifying Individuals to Interview
 **Target Audience**: I hope to reach museum enthusiasts so show them the behind-the-scenes of how the museum is made. I also hope to reach people who live in communities with an accessible museum but do not visit.
+
+
 **Individuals to Interview**: I chose to interview three individuals: (A) had no knowledge of the subject and little knowledge of data visualization methods; (B) knew a bit about the subject and is aware of data visualization methods; and finally, a (C) classmate. 
 
 ![](Q1.PNG)
