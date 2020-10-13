@@ -1,9 +1,16 @@
 # Final Project - Part III
 
-## How it came together
-[Part I](final_project_Watters.md)
+## The Final Product
+[Check out my final project)(https://preview.shorthand.com/7J7F2y4GCkFPlKG8)
 
-[Part II](final_project_Part11_watters.md)
+## How it came together
+[Recap:Part I](final_project_Watters.md)
+
+[Recap:Part II](final_project_Part11_watters.md)
+
+
+
+
 
 
 
