@@ -24,3 +24,6 @@ This is where my data visualization projects with be stored.
  
 ## Final Project Part II
  [Final Project Part II](/final_project_Part11_watters.md)
+ 
+## Final Project Part III
+[Final Project Part III](/final_project_part3_watters.md)
