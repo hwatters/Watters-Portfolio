@@ -10,11 +10,10 @@ Before joining CMU in April 2019, I worked four years at the Carnegie Museums of
 I hope to better my data visualization skills to help me excel in my professional career. The field of non-profit prospect development is evolving quickly. Many institutions are turning towards new technology to keep up with trends, such as BI software. I hope to learn how to create powerful data visualizations that are easy to interpret, especially to audiences who are reluctant to change (i.e. colleagues who keep paper records). I hope to gain from the course the confidence to present data in a powerful and productive way.
 
 # Portfolio
-This is where my data visualization projects with be stored. 
+Please find my weekly assignments and final project below.
 
 ## Week 2 Assignment 
 [Week 2 Assignment Page](/DatavizWeek2.md)
-
 
 ## Assignment 3 & 4: Critique by Design
 [Week 3 Assignment Page](/WeekThree.md)
