@@ -27,3 +27,6 @@ This is where my data visualization projects with be stored.
  
 ## Final Project Part III
 [Final Project Part III](/final_project_part3_watters.md)
+
+## Completed Project in Shorthand
+[Diversity in U.S. Art Museums](https://carnegiemellon.shorthandstories.com/diversity-in-u-s--art-museums/index.html)
